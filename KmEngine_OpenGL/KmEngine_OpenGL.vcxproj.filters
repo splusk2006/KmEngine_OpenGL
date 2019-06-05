@@ -22,4 +22,14 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Shader.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shader\VertexShader.glsl">
+      <Filter>소스 파일</Filter>
+    </None>
+  </ItemGroup>
 </Project>
